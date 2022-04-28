@@ -15,8 +15,6 @@ Template File: sources-sinks-01.tmpl.c
  *
  * */
 
-#include "std_testcase.h"
-
 #ifdef _WIN32
 #include <winsock2.h>
 #include <windows.h>
